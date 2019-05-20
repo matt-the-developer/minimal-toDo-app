@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/matt-the-developer/minimal-toDo-app/issues"
   },
-  "homepage": "https://github.com/matt-the-developer/minimal-toDo-app#readme"
+  "homepage": "https://github.com/matt-the-developer/minimal-toDo-app#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0"
+  }
 }
