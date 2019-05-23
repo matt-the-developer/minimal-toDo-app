@@ -1,3 +1,4 @@
 # minimal-toDo-app
 
-Need to add middleware - [5/20]
+- Adds and removes tasks
+- Default Task and Completed tasks are placeholders
